@@ -3,9 +3,9 @@
 
 Conteúdos do treinamento de Front End na Academia Accenture, de 13/10/2020 a 14/11/2020, fornecido em parceria com a [Gama Academy](https://gama.academy/).
 
-### TRANFORMADORES
+### TRANSFORMADORES
 
-Na Gama, quem ministra as aulas e conteúdos são chamados de Transformadores. Nesta formação, teremos 4:
+Na Gama, quem ministra as aulas e conteúdos são chamados de Transformadores. Nesta formação, os transformadores serão:
 
 1. [JC Bombardelli](https://www.linkedin.com/in/jcbombardelli/) <br>
 Aulas de Metodologia Ágil (SCRUM) e Versionamento de Código. <br>
