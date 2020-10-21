@@ -1,0 +1,11 @@
+1) Resuma os métodos HTTP:
+
+GET: consulta de registros
+POST: criação de registros
+PUT: atualizar um registro de forma inteira
+DELETE: remover um registro
+PATCH: atualizar um registro de forma parcial
+
+
+2) O que são e para que servem os Status Codes em HTTP?
+RESPOSTA: dar visibilidade à um cliente sobre um estado de uma operação, através de um código padronizado. 
