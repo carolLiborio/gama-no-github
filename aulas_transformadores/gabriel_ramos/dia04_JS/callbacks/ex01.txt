@@ -1,0 +1,6 @@
+1) Em teoria, o que são callbacks?
+
+RESPOSTA: Callbacks são funções que são passadas 
+a outra função como argumento, que é então invocado dentro da função externa 
+para completar algum tipo de rotina ou ação.
+São executadas em um momento futuro, geralmente ligadas à código assíncrono.

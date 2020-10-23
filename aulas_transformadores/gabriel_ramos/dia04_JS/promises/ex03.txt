@@ -1,0 +1,8 @@
+3) Qual a diferença entre utilizar Promise de maneira 
+thenable (com .then) ou com async/await?
+
+RESPOSTA: Apenas a sintaxe e a maneira de leitura. Na maneira thenable 
+precisamos ficar encadeando diversos callbacks para execução em etapas da Promise. 
+Isso também ocorre com async/await, entretanto, criamos diretamente variáveis no código e 
+a forma de ler acaba sendo mais estruturada.
+
