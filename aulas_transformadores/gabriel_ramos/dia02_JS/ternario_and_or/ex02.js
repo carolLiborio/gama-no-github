@@ -14,7 +14,7 @@ function criaMensagemPorStatus (status) {
     return message || 'Sem status';
 }
 
-console.log(criaMensagemPorStatus('outro status qualquer'));
+console.log(criaMensagemPorStatus('success'));
 
 //Neste caso, o uso do switch deixaria mais organizado
 
